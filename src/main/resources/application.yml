@@ -1,0 +1,18 @@
+server:
+  port: 8081
+
+
+person:
+  name: 张珊
+  age: 25
+  sex: false
+  lists:
+    - lisi
+    - wangwu
+    - zhaoliu
+  map:
+    k1: v1
+    k2: 24
+  dog:
+    name: 汤姆
+    age: 8
